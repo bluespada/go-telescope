@@ -1,0 +1,8 @@
+{
+  "name": "go-telescope",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bluespada/go-telescope.git",
+  "author": "bluespada <pentingmain@gmail.com>",
+  "license": "MIT"
+}
